@@ -1,0 +1,13 @@
+.container {
+  background: red;
+  transition: all 0.5s;
+}
+
+.container:hover {
+  background: gold;
+}
+
+.image {
+  height: 250px;
+  background: url("./images/city.jpg");
+}
