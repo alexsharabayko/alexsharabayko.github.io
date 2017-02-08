@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'promo',
+  selector: 'dk-promo',
   templateUrl: 'promo.component.html',
   styleUrls: ['./promo.component.scss'],
 })
