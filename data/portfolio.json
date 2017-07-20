@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "name": "Galabingo.com",
+      "position": "Backbone JS, HTML, CSS",
+      "img": "img/portfolio/gbas.jpg",
+      "href": "https://www.galabingo.com/"
+    },
+    {
+      "name": "Galacasino.com",
+      "position": "Backbone JS, HTML, CSS",
+      "img": "img/portfolio/gcas.jpg",
+      "href": "https://www.galacasino.com/"
+    },
+    {
+      "name": "Go Fast",
+      "position": "Angular JS",
+      "img": "img/portfolio/gofast.jpg",
+      "href": "http://gofast.by/"
+    },
+    {
+      "name": "Hiqo Solutions",
+      "position": "HTML and CSS",
+      "img": "img/portfolio/hiqo.jpg",
+      "href": "http://www.hiqo-solutions.com/"
+    },
+    {
+      "name": "Sport.com",
+      "position": "JS",
+      "img": "img/portfolio/sportcom.jpg",
+      "href": "http://sport.com/"
+    },
+    {
+      "name": "GOT Map",
+      "position": "Leaflet JS",
+      "img": "img/portfolio/got.jpg",
+      "href": "http://viewers-guide.hbo.com/game-of-thrones/season-5/episode-1/map/location/1/ashemark"
+    },
+    {
+      "name": "Node js projects",
+      "position": "Node js, Mongodb, Express",
+      "img": "img/portfolio/node.jpg",
+      "href": "https://nodejs.org/en/"
+    },
+    {
+      "name": "Freelance",
+      "position": "HTML, CSS, JS, Node JS",
+      "img": "img/portfolio/freelance.jpg",
+      "href": "http://www.freelance.com/en/"
+    },
+    {
+      "name": "Look at me widgets",
+      "position": "HTML, CSS, JS",
+      "img": "img/portfolio/look.jpg",
+      "href": "http://www.lookatme.ru/"
+    }
+  ]
+}

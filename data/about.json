@@ -1,0 +1,177 @@
+{
+  "commonInfo": {
+    "fullName": "Alexander Sharabayko",
+    "position": "Frontend Developer",
+    "avatarSrc": "img/ava1.jpg",
+    "introWords": "Hi there! I'm highly qualified specialist in program development, with good knowledge and expirience in frontend and server development, math, command work. I like decide complicated and not standard tasks, write clear, extendable and strict code, self-development. Other information about me you can look up at this website or at print version of my cv.",
+    "details": [
+      {
+        "title": "Name",
+        "value": "Alex Sharabayko"
+      },
+      {
+        "title": "Date of birth",
+        "value": "February 17, 1993"
+      },
+      {
+        "title": "Address",
+        "value": "Minsk, Belarus",
+        "contact": true,
+        "contactIcon": "map-marker"
+      },
+      {
+        "title": "Email",
+        "value": "alexsharabayko@gmail.com",
+        "contact": true,
+        "contactIcon": "envelope",
+        "isLink": true,
+        "linkType": "mailto:"
+      },
+      {
+        "title": "Phone",
+        "value": "+375292120592",
+        "contact": true,
+        "contactIcon": "phone",
+        "isLink": true,
+        "linkType": "tel:"
+      },
+      {
+        "title": "Skype",
+        "value": "alexandr.sharabayko",
+        "contact": true,
+        "contactIcon": "skype",
+        "isLink": true,
+        "linkType": "skype:"
+      }
+    ]
+  },
+
+
+  "education": [
+    {
+      "position": "Bachelor Degree",
+      "place": "BSU (Math faculty)",
+      "startDate": "2010",
+      "endDate": "2015",
+      "description": "Math faculty of BSU - one of the best places to studying and self-growing in Belarus. I've took a good and fundamental knowledge in math, in algorithms and in basic programming. I learned how to think abstractly, how to decide new and unusual tasks and work hard."
+    },
+    {
+      "position": "Lieutenant of reserve",
+      "place": "BSU (Military faculty)",
+      "startDate": "2012",
+      "endDate": "2014",
+      "description": "I finished Military faculty of Belorussian State University. As a result a have rank of lieutenant of reserve."
+    }
+  ],
+
+  "expirience": [
+    {
+      "position": "Frontend Developer",
+      "place": "Synesis",
+      "startDate": "Feb 2017",
+      "endDate": "current",
+      "description": "I took part in developing of big single page application, solved architect problems."
+    },
+    {
+      "position": "Frontend Developer",
+      "place": "Viaden Media / Skywind Tech By",
+      "startDate": "Sep 2014",
+      "endDate": "current",
+      "description": "In this company I took a huge experience in development of big single page web applications. I learned how to organize code in big applications, how to build strict and extendable architecture, how to work with team and customer."
+    },
+    {
+      "position": "Frontend Developer",
+      "place": "Hiqo Solutions",
+      "startDate": "Jul 2013",
+      "endDate": "Aug 2014",
+      "description": "I was hired to this company at summer of 2013. Usually I developed not very big websites, using knockout, backbone, sencha, etc. In addition, "
+    },
+    {
+      "position": "Frontend Developer",
+      "place": "Freelance",
+      "startDate": "2012",
+      "endDate": "2013",
+      "description": "My start point of web development. Freelance work was started by my student course projects, and was finished by commercial projects on backbone, angular, etc. I learned how to organize my time and how to write code rightly."
+    }
+  ],
+
+  "services": [
+    {
+      "title": "Development",
+      "description": "A lot of expirience in program development",
+      "icon": "wrench"
+    },
+    {
+      "title": "Support",
+      "description": "A lot of expirience in program support",
+      "icon": "life-ring"
+    },
+    {
+      "title": "Team work",
+      "description": "A lot of expirience in team work",
+      "icon": "users"
+    }
+  ],
+
+  "hobbies": [
+    {
+      "title": "Computer science",
+      "description": "Programming, algorithms, frontend, backend, games",
+      "icon": "laptop"
+    },
+    {
+      "title": "Books",
+      "description": "Science and publicistic books, Dovlatov, Pozner",
+      "icon": "book"
+    },
+    {
+      "title": "Cinema",
+      "description": "Godfather, Breaking Bad and a lot, a lot",
+      "icon": "tv"
+    },
+    {
+      "title": "Friends",
+      "description": "One of the best way to relax and have a good time",
+      "icon": "users"
+    },
+    {
+      "title": "Boxing",
+      "description": "I would like to be like Mike or Floyd))",
+      "icon": "trophy"
+    },
+    {
+      "title": "Cooking",
+      "description": "Meat, meat, meat, vegetables, fruits, meat, meat",
+      "icon": "cutlery"
+    }
+  ],
+
+  "socialLinks": [
+    {
+      "icon": "linkedin",
+      "href": "https://www.linkedin.com/in/%D1%88%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D0%B9%D0%BA%D0%BE-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-8ba2899a?trk=hp-identity-name"
+    },
+    {
+      "icon": "facebook",
+      "href": "https://www.facebook.com/alexsharabayko"
+    },
+    {
+      "icon": "twitter",
+      "href": "https://twitter.com/alexsharabayko"
+    },
+    {
+      "icon": "vk",
+      "href": "https://new.vk.com/alexsharabayko"
+    },
+    {
+      "icon": "github",
+      "href": "https://github.com/alexsharabayko"
+    },
+    {
+      "icon": "instagram",
+      "href": "https://www.instagram.com/alexsharabayko/"
+    }
+  ],
+
+  "textResumeLink": "data/resume.docx"
+}
