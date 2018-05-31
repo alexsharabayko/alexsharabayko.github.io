@@ -67,17 +67,17 @@
   "expirience": [
     {
       "position": "Frontend Developer",
-      "place": "Synesis",
-      "startDate": "Feb 2017",
-      "endDate": "current",
-      "description": "I took part in developing of big single page application, solved architect problems."
-    },
-    {
-      "position": "Frontend Developer",
       "place": "Viaden Media / Skywind Tech By",
       "startDate": "Sep 2014",
       "endDate": "current",
       "description": "In this company I took a huge experience in development of big single page web applications. I learned how to organize code in big applications, how to build strict and extendable architecture, how to work with team and customer."
+    },
+    {
+      "position": "Frontend Developer",
+      "place": "Synesis",
+      "startDate": "Feb 2017",
+      "endDate": "Aug 2017",
+      "description": "I took part in developing of big single page application, solved architect problems."
     },
     {
       "position": "Frontend Developer",
