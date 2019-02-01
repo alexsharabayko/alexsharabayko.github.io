@@ -67,9 +67,16 @@
   "expirience": [
     {
       "position": "Frontend Developer",
+      "place": "(Exp) Capital",
+      "startDate": "Aug 2018",
+      "endDate": "current",
+      "description": "Take part in development of capital.com, currency.com"
+    },
+    {
+      "position": "Frontend Developer",
       "place": "Viaden Media / Skywind Tech By",
       "startDate": "Sep 2014",
-      "endDate": "current",
+      "endDate": "Aug 2018",
       "description": "In this company I took a huge experience in development of big single page web applications. I learned how to organize code in big applications, how to build strict and extendable architecture, how to work with team and customer."
     },
     {
