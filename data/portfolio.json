@@ -1,6 +1,30 @@
 {
   "projects": [
     {
+      "name": "Net2phone",
+      "position": "Angular, React JS, Web Components, Sass, Webpack",
+      "img": "img/portfolio/n2p.jpg",
+      "href": "https://app.net2phone.com/"
+    },
+    {
+      "name": "Net2phone Huddle",
+      "position": "React JS, Redux, Webpack, BEM",
+      "img": "img/portfolio/huddle.jpg",
+      "href": "https://huddle.net2phone.com/"
+    },
+    {
+      "name": "Capital.com",
+      "position": "Angular, Ionic, HTML, Sass, Webpack",
+      "img": "img/portfolio/capital.png",
+      "href": "https://capital.com/"
+    },
+    {
+      "name": "Currency.com",
+      "position": "Angular, Ionic, HTML, Sass, Webpack",
+      "img": "img/portfolio/currency.png",
+      "href": "https://currency.com/"
+    },
+    {
       "name": "Galabingo.com",
       "position": "Backbone JS, HTML, CSS",
       "img": "img/portfolio/gbas.jpg",

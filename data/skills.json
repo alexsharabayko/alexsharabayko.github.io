@@ -2,9 +2,9 @@
   "commonTechSkills": [
     {
       "title": "JavaScript",
-      "level": 95,
-      "description": "Majority of my experience consist of writing javascript code. I have experience both in vanilla js and in most popular javascript fraemworks and libraries.",
-      "keywords": "Vanilla JS, Backbone JS, React JS, Angular, jQuery, Underscore"
+      "level": 90,
+      "description": "Majority of my experience consist of writing javascript code. I have experience both in vanilla js and in most popular javascript frameworks and libraries.",
+      "keywords": "Vanilla JS, Angular, React JS, Web Components, Ionic, React Native, Backbone JS, jQuery, Underscore"
     },
     {
       "title": "HTML",
@@ -16,25 +16,25 @@
       "title": "CSS",
       "level": 80,
       "description": "I had a lot of tasks in CSS. I like preprocessors and usual CSS. I know about selectors priority and most popular css methodologies",
-      "keywords": "CSS3, Less, Sass, autoprefixer, postcss, BEM"
+      "keywords": "CSS3, Sass, Less, BEM"
     },
     {
       "title": "Node JS",
-      "level": 60,
+      "level": 50,
       "description": "There is a big experience in developing server side applications using Node js. For example: rest web services, authentification and registartion module and so on. Also there is experience in work with NoSQL databases such as Mongo db.",
-      "keywords": "Node, Node express, Mongo DB, Mongoose, Webpack, Gulp, NWJS, Electron"
+      "keywords": "Node, Node express, Strapi, Mongo DB, Mongoose, Webpack, Gulp, NWJS, Electron"
     },
     {
       "title": "Other languages",
       "level": 50,
       "description": "I have worked with sql-lite syntax and also with no-sql databases. Also a have some small experience in ruby, c# and java.",
-      "keywords": "SQL, Ruby, C#"
+      "keywords": "SQL, PHP, C#, Laravel"
     },
     {
       "title": "Algorithms and architecture",
       "level": 70,
       "description": "Have big experience in building big single page web applications: how to build architecture, how to create extendable and pure methods, where and when better to user some design pattern and so on. Alse I use McConnel's advices to programming my applications.",
-      "keywords": "REST, MVC, MVVM, Redux, Design Patterns, Best Practics"
+      "keywords": "REST, MVC, MVVM, Redux, RxJs, Design Patterns, Best Practics"
     }
   ],
 
@@ -72,7 +72,7 @@
     }
   ],
 
-  "fraemworks": [
+  "frameworks": [
     {
       "title": "React JS"
     }

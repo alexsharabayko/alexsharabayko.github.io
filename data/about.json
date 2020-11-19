@@ -3,7 +3,7 @@
     "fullName": "Alexander Sharabayko",
     "position": "Frontend Developer",
     "avatarSrc": "img/ava1.jpg",
-    "introWords": "Hi there! I'm highly qualified specialist in program development, with good knowledge and expirience in frontend and server development, math, command work. I like decide complicated and not standard tasks, write clear, extendable and strict code, self-development. Other information about me you can look up at this website or at print version of my cv.",
+    "introWords": "Hi there! My name is Alex, i'm engineer with rich and various experience in frontend and knowledge in backend. I do what i like and like what i do. I'm passionate about logical tasks, well-quality code, product development, movies and cooking. Nice to meet you!",
     "details": [
       {
         "title": "Name",
@@ -66,11 +66,18 @@
 
   "expirience": [
     {
+      "position": "Lead Frontend Developer",
+      "place": "IDT Technologies",
+      "startDate": "May 2019",
+      "endDate": "current",
+      "description": "Working on set of apps under https://www.net2phone.com project"
+    },
+    {
       "position": "Frontend Developer",
       "place": "(Exp) Capital",
       "startDate": "Aug 2018",
-      "endDate": "current",
-      "description": "Take part in development of capital.com, currency.com"
+      "endDate": "May 2019",
+      "description": "I took part in development of capital.com, currency.com"
     },
     {
       "position": "Frontend Developer",
