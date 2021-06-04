@@ -70,14 +70,14 @@
       "place": "IDT Technologies",
       "startDate": "May 2019",
       "endDate": "current",
-      "description": "Working on set of apps under https://www.net2phone.com project"
+      "description": "Working on set of apps under https://www.net2phone.com project as lead tech developer: implementing micro-frontend architecture, created common ui library which works on both Angular and React projects, solving non standard tasks, mentoring and organizing."
     },
     {
       "position": "Frontend Developer",
       "place": "(Exp) Capital",
       "startDate": "Aug 2018",
       "endDate": "May 2019",
-      "description": "I took part in development of capital.com, currency.com"
+      "description": "I took part in development of capital.com, currency.com. Implemented features and solved complicated issues."
     },
     {
       "position": "Frontend Developer",
@@ -150,12 +150,12 @@
     },
     {
       "title": "Boxing",
-      "description": "I would like to be like Mike or Floyd))",
+      "description": "It's not the most peaceful, but it's very interesting",
       "icon": "trophy"
     },
     {
       "title": "Cooking",
-      "description": "Meat, meat, meat, vegetables, fruits, meat, meat",
+      "description": "I'm not as good in cooking vegetables as in cooking meat",
       "icon": "cutlery"
     }
   ],
