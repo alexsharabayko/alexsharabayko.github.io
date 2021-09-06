@@ -25,6 +25,18 @@
       "href": "https://currency.com/"
     },
     {
+      "name": "Healthgoing.com",
+      "position": "Angular, Laravel, WebRTC, Stripe",
+      "img": "img/portfolio/healthgoing.jpg",
+      "href": "https://healthgoing.com/"
+    },
+    {
+      "name": "Oh What App",
+      "position": "React Native, Strapi, Firebase",
+      "img": "img/portfolio/ohwhat.jpg",
+      "href": "https://play.google.com/store/apps/details?id=com.ohsmmmobile/"
+    },
+    {
       "name": "Galabingo.com",
       "position": "Backbone JS, HTML, CSS",
       "img": "img/portfolio/gbas.jpg",
@@ -35,12 +47,6 @@
       "position": "Backbone JS, HTML, CSS",
       "img": "img/portfolio/gcas.jpg",
       "href": "https://www.galacasino.com/"
-    },
-    {
-      "name": "Go Fast",
-      "position": "Angular JS",
-      "img": "img/portfolio/gofast.jpg",
-      "href": "http://gofast.by/"
     },
     {
       "name": "Hiqo Solutions",
@@ -59,24 +65,6 @@
       "position": "Leaflet JS",
       "img": "img/portfolio/got.jpg",
       "href": "http://viewers-guide.hbo.com/game-of-thrones/season-5/episode-1/map/location/1/ashemark"
-    },
-    {
-      "name": "Node js projects",
-      "position": "Node js, Mongodb, Express",
-      "img": "img/portfolio/node.jpg",
-      "href": "https://nodejs.org/en/"
-    },
-    {
-      "name": "Freelance",
-      "position": "HTML, CSS, JS, Node JS",
-      "img": "img/portfolio/freelance.jpg",
-      "href": "http://www.freelance.com/en/"
-    },
-    {
-      "name": "Look at me widgets",
-      "position": "HTML, CSS, JS",
-      "img": "img/portfolio/look.jpg",
-      "href": "http://www.lookatme.ru/"
     }
   ]
 }

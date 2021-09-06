@@ -1,34 +1,22 @@
 {
   "commonTechSkills": [
     {
-      "title": "JavaScript",
+      "title": "JavaScript / Typescript",
       "level": 90,
       "description": "Majority of my experience consist of writing javascript code. I have experience both in vanilla js and in most popular javascript frameworks and libraries.",
       "keywords": "Vanilla JS, Angular, React JS, Web Components, Ionic, React Native, Backbone JS, jQuery, Underscore"
     },
     {
-      "title": "HTML",
+      "title": "HTML/CSS",
       "level": 80,
       "description": "I have experience in work with html4 and html5 standards. I know about valid and semantic html code. I worked both with simple html and with template engines.",
-      "keywords": "HTML5, Handlebars, Dot js, Validity, Semantic"
+      "keywords": "HTML5, Handlebars, Dot js, Validity, Semantic, CSS3, Sass, Less, BEM"
     },
     {
-      "title": "CSS",
-      "level": 80,
-      "description": "I had a lot of tasks in CSS. I like preprocessors and usual CSS. I know about selectors priority and most popular css methodologies",
-      "keywords": "CSS3, Sass, Less, BEM"
-    },
-    {
-      "title": "Node JS",
+      "title": "Backend development",
       "level": 50,
-      "description": "There is a big experience in developing server side applications using Node js. For example: rest web services, authentification and registartion module and so on. Also there is experience in work with NoSQL databases such as Mongo db.",
-      "keywords": "Node, Node express, Strapi, Mongo DB, Mongoose, Webpack, Gulp, NWJS, Electron"
-    },
-    {
-      "title": "Other languages",
-      "level": 50,
-      "description": "I have worked with sql-lite syntax and also with no-sql databases. Also a have some small experience in ruby, c# and java.",
-      "keywords": "SQL, PHP, C#, Laravel"
+      "description": "I started a few server from scratch using Node js (Strapi and Express) and PHP (Laravel)",
+      "keywords": "SQL, PHP, Laravel, Python, Django"
     },
     {
       "title": "Algorithms and architecture",
@@ -50,6 +38,12 @@
       "level": 50,
       "levelInWords": "Intermediate",
       "description": " English is either the official language or an official language in almost 60 sovereign states. It is the most commonly spoken language in the United Kingdom, the United States, Canada, Australia, Ireland, and New Zealand, and it is widely spoken in some areas of the Caribbean, Africa, and South Asia."
+    },
+    {
+      "title": "Polish",
+      "level": 10,
+      "levelInWords": "Elementary",
+      "description": " English is either the official language or an official language in almost 60 sovereign states. It is the most commonly spoken language in the United Kingdom, the United States, Canada, Australia, Ireland, and New Zealand, and it is widely spoken in some areas of the Caribbean, Africa, and South Asia."
     }
   ],
 
@@ -63,11 +57,15 @@
       "level": 90
     },
     {
-      "title": "Sublime Text",
-      "level": 90
+      "title": "Sublime Text / Atom / VS Code",
+      "level": 70
     },
     {
       "title": "Adobe Photoshop",
+      "level": 50
+    },
+    {
+      "title": "Sketch",
       "level": 50
     }
   ],

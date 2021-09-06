@@ -54,13 +54,6 @@
       "startDate": "2010",
       "endDate": "2015",
       "description": "Math faculty of BSU - one of the best places to studying and self-growing in Belarus. I've took a good and fundamental knowledge in math, in algorithms and in basic programming. I learned how to think abstractly, how to decide new and unusual tasks and work hard."
-    },
-    {
-      "position": "Lieutenant of reserve",
-      "place": "BSU (Military faculty)",
-      "startDate": "2012",
-      "endDate": "2014",
-      "description": "I finished Military faculty of Belorussian State University. As a result a have rank of lieutenant of reserve."
     }
   ],
 
@@ -70,59 +63,59 @@
       "place": "IDT Technologies",
       "startDate": "May 2019",
       "endDate": "current",
-      "description": "Working on set of apps under https://www.net2phone.com project as lead tech developer: implementing micro-frontend architecture, created common ui library which works on both Angular and React projects, solving non standard tasks, mentoring and organizing."
+      "description": "Working on set of apps under https://www.net2phone.com project as lead tech developer: implementing micro-frontend architecture, created common ui library which works on both Angular and React projects, solving non standard tasks, mentoring and organizing, scrum mastering."
     },
     {
-      "position": "Frontend Developer",
+      "position": "Frontend / backend developer, Co-founder",
+      "place": "Oh What App",
+      "startDate": "Mar 2020",
+      "endDate": "Mar 2021",
+      "description": "My friends and I were trying to create our own sophisticated app for SMM in Instagram. Minimal goal for me - learning a backend development. You can look on it in https://play.google.com/store/apps/details?id=com.ohsmmmobile"
+    },
+    {
+      "position": "Frontend / backend developer, Co-founder",
+      "place": "Heathgoing.com",
+      "startDate": "Mar 2020",
+      "endDate": "current",
+      "description": "My friends and I are trying to create solution to connect nutritionists with their customers."
+    },
+    {
+      "position": "Senior Frontend Developer",
       "place": "(Exp) Capital",
       "startDate": "Aug 2018",
       "endDate": "May 2019",
       "description": "I took part in development of capital.com, currency.com. Implemented features and solved complicated issues."
     },
     {
-      "position": "Frontend Developer",
+      "position": "Middle/Senior Frontend Developer",
       "place": "Viaden Media / Skywind Tech By",
       "startDate": "Sep 2014",
       "endDate": "Aug 2018",
       "description": "In this company I took a huge experience in development of big single page web applications. I learned how to organize code in big applications, how to build strict and extendable architecture, how to work with team and customer."
     },
     {
-      "position": "Frontend Developer",
-      "place": "Synesis",
-      "startDate": "Feb 2017",
-      "endDate": "Aug 2017",
-      "description": "I took part in developing of big single page application, solved architect problems."
-    },
-    {
-      "position": "Frontend Developer",
+      "position": "Junior Frontend Developer",
       "place": "Hiqo Solutions",
       "startDate": "Jul 2013",
       "endDate": "Aug 2014",
-      "description": "I was hired to this company at summer of 2013. Usually I developed not very big websites, using knockout, backbone, sencha, etc. In addition, "
-    },
-    {
-      "position": "Frontend Developer",
-      "place": "Freelance",
-      "startDate": "2012",
-      "endDate": "2013",
-      "description": "My start point of web development. Freelance work was started by my student course projects, and was finished by commercial projects on backbone, angular, etc. I learned how to organize my time and how to write code rightly."
+      "description": "Starting point of my career. Was member of internship program then worked as junior engineer: fixed bugs, implemented small features for different projects, for example https://www.hiqo-solutions.com"
     }
   ],
 
   "services": [
     {
       "title": "Development",
-      "description": "A lot of expirience in program development",
+      "description": "A lot of experience in program development",
       "icon": "wrench"
     },
     {
       "title": "Support",
-      "description": "A lot of expirience in program support",
+      "description": "A lot of experience in program support",
       "icon": "life-ring"
     },
     {
       "title": "Team work",
-      "description": "A lot of expirience in team work",
+      "description": "A lot of experience in team work",
       "icon": "users"
     }
   ],
@@ -139,7 +132,7 @@
       "icon": "book"
     },
     {
-      "title": "Cinema",
+      "title": "Movies",
       "description": "Godfather, Breaking Bad and a lot, a lot",
       "icon": "tv"
     },
