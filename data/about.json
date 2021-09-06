@@ -15,7 +15,7 @@
       },
       {
         "title": "Address",
-        "value": "Minsk, Belarus",
+        "value": "Warsaw, Poland",
         "contact": true,
         "contactIcon": "map-marker"
       },
@@ -26,6 +26,14 @@
         "contactIcon": "envelope",
         "isLink": true,
         "linkType": "mailto:"
+      },
+      {
+        "title": "Phone",
+        "value": "+48662921496",
+        "contact": true,
+        "contactIcon": "phone",
+        "isLink": true,
+        "linkType": "tel:"
       },
       {
         "title": "Phone",
